@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cassieym
 - 👀 I’m interested in Computer Science and Machine Learning/Artificial Intelligence!
-- 🌱 I’m currently learning Harvard's CS50.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
